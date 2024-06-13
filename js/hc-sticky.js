@@ -3,7 +3,7 @@
  * =========
  * Version: 2.2.1
  * Author: Some Web Media
- * Author URL: http://somewebmedia.com
+ * Author URL: https://somewebmedia.com
  * Plugin URL: https://github.com/somewebmedia/hc-sticky
  * Description: Cross-browser plugin that makes any element on your page visible while you scroll
  * License: MIT
