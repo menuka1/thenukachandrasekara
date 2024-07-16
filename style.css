@@ -6538,7 +6538,7 @@ tfoot {
     width: 50px;
     height: 100px;
     cursor: pointer;
-    background: url(images/chocolat/left.png) 50% 50% no-repeat;
+    background: url(images/chocolat/left.webp) 50% 50% no-repeat;
     z-index: 17;
     visibility: hidden;
 }
@@ -6573,7 +6573,7 @@ tfoot {
     width: 50px;
     height: 100px;
     cursor: pointer;
-    background: url(images/chocolat/right.png) 50% 50% no-repeat;
+    background: url(images/chocolat/right.webp) 50% 50% no-repeat;
     z-index: 17;
     visibility: hidden;
 }
@@ -6596,7 +6596,7 @@ tfoot {
     position: absolute;
     top: 0;
     right: 0;
-    background: url(images/chocolat/close.png) 50% 50% no-repeat;
+    background: url(images/chocolat/close.webp) 50% 50% no-repeat;
 }
 .chocolat-wrapper .chocolat-bottom {
     height: 40px;
@@ -6627,7 +6627,7 @@ tfoot {
 .chocolat-wrapper .chocolat-fullscreen {
     width: 16px;
     height: 40px;
-    background: url(images/chocolat/fullscreen.png) 50% 50% no-repeat;
+    background: url(images/chocolat/fullscreen.webp) 50% 50% no-repeat;
     display: block;
     cursor: pointer;
     float: right;
